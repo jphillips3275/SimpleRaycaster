@@ -1,0 +1,14 @@
+C:\Users\Jackson\source\repos\Engine\bin\Debug\net8.0\Engine.exe
+C:\Users\Jackson\source\repos\Engine\bin\Debug\net8.0\Engine.deps.json
+C:\Users\Jackson\source\repos\Engine\bin\Debug\net8.0\Engine.runtimeconfig.json
+C:\Users\Jackson\source\repos\Engine\bin\Debug\net8.0\Engine.dll
+C:\Users\Jackson\source\repos\Engine\bin\Debug\net8.0\Engine.pdb
+C:\Users\Jackson\source\repos\Engine\obj\Debug\net8.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jackson\source\repos\Engine\obj\Debug\net8.0\Engine.AssemblyInfoInputs.cache
+C:\Users\Jackson\source\repos\Engine\obj\Debug\net8.0\Engine.AssemblyInfo.cs
+C:\Users\Jackson\source\repos\Engine\obj\Debug\net8.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\source\repos\Engine\obj\Debug\net8.0\Engine.dll
+C:\Users\Jackson\source\repos\Engine\obj\Debug\net8.0\refint\Engine.dll
+C:\Users\Jackson\source\repos\Engine\obj\Debug\net8.0\Engine.pdb
+C:\Users\Jackson\source\repos\Engine\obj\Debug\net8.0\Engine.genruntimeconfig.cache
+C:\Users\Jackson\source\repos\Engine\obj\Debug\net8.0\ref\Engine.dll
